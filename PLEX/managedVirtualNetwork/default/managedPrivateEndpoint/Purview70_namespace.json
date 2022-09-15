@@ -1,0 +1,7 @@
+{
+	"name": "Purview70_namespace",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/5ec5784e-a5bb-48b6-a184-d70436305f65/resourceGroups/managed-purviewmcalpin/providers/Microsoft.EventHub/namespaces/Atlas-dfc9372a-f96d-49c5-83c6-d06bffc13e02",
+		"groupId": "namespace"
+	}
+}

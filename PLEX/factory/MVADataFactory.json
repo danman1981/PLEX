@@ -1,0 +1,9 @@
+{
+	"name": "MVADataFactory",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "048685e7-5b71-416a-b3ca-250ed156d533",
+		"tenantId": "c2eb335c-2a96-4d3d-95b1-48562a04992b"
+	}
+}

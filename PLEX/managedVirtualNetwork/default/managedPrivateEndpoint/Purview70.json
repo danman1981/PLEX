@@ -1,0 +1,7 @@
+{
+	"name": "Purview70",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/5ec5784e-a5bb-48b6-a184-d70436305f65/resourceGroups/Purview/providers/Microsoft.Purview/accounts/purviewmcalpin",
+		"groupId": "account"
+	}
+}
